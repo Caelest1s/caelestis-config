@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Bank account related prod APIs"
   contactDetails:
     name: "Elon Musk - Product Owner"
-    email: "contato@elonmusk.prod.br"
+    email: "{cipher}dccce4ce1778f3e4d6565f0b6f57d16fabd824d4888fbfa83a93697b11d387f356ffc5235d036119ed9578b564ee4057"
   onCallSupport:
     - (+55) 061 65824-2222
     - (+55) 061 3034-1111
