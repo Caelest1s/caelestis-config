@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Bank loan related product APIs"
+  message: "Welcome to Bank loan related prod APIs"
   contactDetails:
     name: "Thomas Edison - Product Owner"
     email: "contato@thomasedison.prod.br"
