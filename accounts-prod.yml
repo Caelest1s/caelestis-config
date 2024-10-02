@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Bank account related webhook APIs"
+  message: "Welcome to Bank account related prod APIs"
   contactDetails:
     name: "Elon Musk - Product Owner"
     email: "{cipher}dccce4ce1778f3e4d6565f0b6f57d16fabd824d4888fbfa83a93697b11d387f356ffc5235d036119ed9578b564ee4057"
