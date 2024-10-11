@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Bank card related prod APIs"
+  message: "Welcome to Bank card related docker APIs"
   contactDetails:
     name: "White Buffalo - Product Owner"
     email: "contato@whitebuffalo.prod.br"
