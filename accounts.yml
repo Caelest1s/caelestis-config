@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Bank account related local APIs"
+  message: "Welcome to Bank account related docker APIs"
   contactDetails:
     name: "Jefferson Celestino - Developer"
     email: "contato@jeffersoncelestino.dev.br"
